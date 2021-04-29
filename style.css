@@ -59,8 +59,8 @@ ul li:nth-child(4)::before {
 }
 ul li:nth-child(5)::before {
     content: '\f09b';
-    color: #4078c0;
-    border-bottom: 4px solid #4078c0;
+    color: #fff;
+    border-bottom: 4px solid #fff;
 }
 ul li:nth-child(6)::before {
     content: '\f167';
